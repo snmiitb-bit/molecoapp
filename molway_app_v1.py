@@ -66,7 +66,7 @@ def search_epa_comptox(identifier):
     
     # Updated Authenticated Headers
     headers = {
-        "x-api-key": "VnIRWYixwW69yhNtvzHMXHCTk9MCIuXsoOTMYKfy",
+        "x-api-key": "YOUR-KEY",
         "Content-Type": "application/json"
     }
     
